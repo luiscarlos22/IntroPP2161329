@@ -3,7 +3,7 @@
 
 
 ## COMPILAR 
-Para compilar el c�digo se hace mediante gcc, se hace de la misma forma tanto para local como para Guane. A continuacion, el comando: 
+Para compilar el codigo se hace mediante gcc, se hace de la misma forma tanto para local como para Guane. A continuacion, el comando: 
 
 - gcc -fopenmp omp_fd1d_advection_diffusion_steady.c -o omp_fd1d_advection_diffusion_steady -lm
 
